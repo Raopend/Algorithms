@@ -1,4 +1,4 @@
-package Week1;
+package Week1.Hello;
 
 public class HelloWorld {
 
